@@ -49,7 +49,7 @@ class LittleMonster extends Character {
 
 class BigMonster extends Character {
     constructor() {
-        super("Orochimaru");
+        super("Sarah");
         this.life = 120;
         this.attack = 16;
         this.defense = 6;
